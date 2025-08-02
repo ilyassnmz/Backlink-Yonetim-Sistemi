@@ -38,6 +38,7 @@ Bu proje, **backlink** eklemek, düzenlemek, silmek ve bunları filtrelemek içi
 4. **Düzenleme ve Silme:**
    - Backlinkleri **düzenlemek** veya **silmek** için her bir backlinkin sağ üst köşesinde bulunan **düzenle** ve **sil** ikonlarına tıklayabilirsiniz.
 
+
 ---
 
 ### 📸 Ekran Görüntüleri
